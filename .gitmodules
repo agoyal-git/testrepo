@@ -1,0 +1,3 @@
+[submodule "shorter_repo"]
+	path = shorter_repo
+	url = https://github.com/agoyal-git/shorter_repo.git
